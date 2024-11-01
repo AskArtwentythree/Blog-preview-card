@@ -64,6 +64,7 @@ body {
 
 .title:hover {
   color: rgba(244, 208, 78, 1);
+  cursor: pointer;
 }
 
 .description {
